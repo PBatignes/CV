@@ -1,0 +1,22 @@
+.lienLkdn {
+    text-decoration: none;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#navbar {
+    width: 90%;
+}
+
+#page-item {
+    width: 90%;
+}
+
+#liens {
+    color: #007bff;
+    background-color: transparent;
+}
